@@ -1,0 +1,47 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Mechanical_Arm_STC15W4K48S4.PrjPcb|ReportField=ProjectFullPath~G:\以完结整合的项目\Mechanical_Arm_PCB_STC15W4K48S4\Mechanical_Arm_STC15W4K48S4.PrjPcb|ReportField=Title~Bill of Materials For Project [Mechanical_Arm_STC15W4K48S4.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~63|ReportField=ReportTime~16:59:51|ReportField=ReportDate~2018/6/25|ReportField=ReportDateTime~2018/6/25 16:59:51|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2018/6/25|ReportField=CurrentTime~16:59:47|ReportField=Date~|ReportField=DocumentFullPathAndName~G:\以完结整合的项目\Mechanical_Arm_PCB_STC15W4K48S4\Mechanical_Arm_STC15W4K48S4.SchDoc|ReportField=DocumentName~Mechanical_Arm_STC15W4K48S4.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2018/7/15|ReportField=Organization~|ReportField=ProjectName~Mechanical_Arm_STC15W4K48S4.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Mechanical_Arm_STC15W4K48S4.PrjPcb|ReportField=DataSourceFullPath~G:\以完结整合的项目\Mechanical_Arm_PCB_STC15W4K48S4\Mechanical_Arm_STC15W4K48S4.PrjPcb
+1|L3|||heard3X2|hader_3*2|1
+2|L1||*7|heard3X3|hader_3*3|1
+3|L2||*8|heard3X3|hader_3*3|1
+4|RS485|KF301|--   6-8V|KF301-2P|HEAD2|1
+5|74HC1G04DBV|逻辑反相器|1G04|SOT23-5L|74HC1G04DBV|1
+6|HDR-1X3|3P接插件|3V3, 5V|HDR-1X3R|Header 3|2
+7|串口2|蓝牙/串口|4V4 G RX2 TX2|HDR-1X4_M|Header4booth|1
+8|STC15W4K48S4|STC单片机|15W4K48S4|LQFP44 10X10_L|STC15W4K48S4-44pin|1
+9|Header 4X2|4*2P接插件|24L01, P2|HDR-4X2|Header 4X2|2
+10|74HC573|D类三态输出锁存器|74HC573|TSSOP20_N|74HC573|1
+11|74LVC1G125DBVR|单路总线缓冲器|125DBVR|SOT23-5L|74LVC1G125DBVR|2
+12|AMS1117-3V3|三端稳压芯片|1117-3.3|SOT223_L|AMS1117|1
+13|AMS1117-5|三端稳压芯片|1117_5.0A, 1117_5.0B|SOT223_L|AMS1117|2
+14|5264|单总线舵机接口|5264A, 5264B|5264|5264|2
+15|BEEP|蜂鸣器|BEEP|BEEP 5x9x5.5|BEEP|1
+16|Bluetooth|蓝牙/串口|Bluetooth|HDR-1X4_M|Header4booth|1
+17|10uF|无极性贴片电容|C1|C 0603|C|1
+18|104|无极性贴片电容|C2, C5|C 0603|C|2
+19|22pF|无极性贴片电容|C3, C6|C 0603|C|2
+20|103|无极性贴片电容|C4|C 0603|C|1
+21|CH340G|串口转USB|CH340|SOP16_L|CH340G|1
+22|DHT11||DHT11 +|HDR-1X3_M|DHT11|1
+23|10uF/10V|贴片固态电容|E3|CT 5*6 - C|C-CT|1
+24|3x6x5|3x6轻触开关|Enter, Next, RST|TSW SMD-3*6*2.5|TSW 3x6|3
+25|绿色|贴片LED|G|LED 0603G|LED-SMD|1
+26|HDR-1X3|3P接插件|G, GND|HDR-1X3|Header 3|2
+27|HC-SR04|超声波|HC-SR04|HDR-1X4|HC-SR04|1
+28|SW-SPDT|开关|MCU|KEY_HDR3|SW-SPDT|1
+29|USB-5P|微型USB母座|MICRO|USB-MICRO_A|USB-5P|1
+30|HDR-1X2|2P接插件|MOS1|HDR-1X2|Header 2|1
+31|SW-SPDT|开关|OFF / ON|纽子开关|SW-SPDT|1
+32|2K|贴片电阻|R1|R 0603|R|1
+33|10K|贴片电阻|R2, R6, R9|R 0603|R|3
+34|3K|贴片电阻|R3|R 0603|R|1
+35|1K|贴片电阻|R4, R7, R12, R13|R 0603|R|4
+36|300R|贴片电阻|R5|R 0603|R|1
+37|100R|贴片电阻|R8|R 0603|R|1
+38|红色|贴片LED|Red|LED 0603R|LED-SMD|1
+39|OLED 0.96-12864_4pin|12864 点阵屏|SDA SCL 5V G|OLED 0.96-12864_4pin|OLED 0.96-12864_4pin|1
+40|GY-302||SDA SCL G 5V|HDR-1X4|GY-302|1
+41|SI2302|N沟道场效应管|SI2303A|SOT23-3N|SI2302|1
+42|SS14|肖特基二极管|VD1|SMA|SS14|1
+43|1N4148|高速开关二极管|VD2|MINI_MELF (LL34)|1N4148|1
+44|M7|整流二极管|VD3, VD4, VD6|SMA|M7|3
+45|W25Qxx|外置Flash|W25Q|SOP8W_L|W25Qxx|1
+46|12MHz|2脚晶振|X1|XTAL-49S DIP|XTAL-2|1
